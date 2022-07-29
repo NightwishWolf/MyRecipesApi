@@ -14,7 +14,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "Recipes",
-      "applicationUrl": "https://localhost:5224;http://localhost:7224",
+      "applicationUrl": "https://localhost:5224;https://localhost:7224",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

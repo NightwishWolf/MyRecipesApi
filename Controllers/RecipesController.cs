@@ -56,9 +56,9 @@ namespace RecipeApi.Controllers
             {
                 return NotFound();
             }
-            var result = await _context.Recipes.ToListAsync();
+            return await _context.Recipes.ToListAsync();
 
-            return result;
+           // return result;
         }
 
         // PUT update a recipe
