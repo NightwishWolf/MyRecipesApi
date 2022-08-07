@@ -10,9 +10,9 @@ namespace RecipeApi.Data
             : base(options)
         { }
 
-        public DbSet<Recipe> Recipes { get; set; } = null!;
-        public DbSet<User> Users { get; set; } = null!;
-        public DbSet<Group> Groups { get; set; } = null!;
+        public virtual DbSet<Recipe> Recipes { get; set; } 
+        public virtual DbSet<User> Users { get; set; } 
+        public virtual DbSet<Group> Groups { get; set; }
 }
 
        
