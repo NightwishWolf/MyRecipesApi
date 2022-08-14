@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeCookbook.Android", ".
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeCookbook", "..\RecipeCookbook\RecipeCookbook\RecipeCookbook.csproj", "{62204F66-A0AE-4FA8-964E-E6A0F87C0EF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeApi.Test", "..\RecipeApi.Test\RecipeApi.Test.csproj", "{F2941904-03F4-40E9-BC2E-0D4C99027333}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeApi.Test", "..\RecipeApi.Test\RecipeApi.Test.csproj", "{F2941904-03F4-40E9-BC2E-0D4C99027333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeCookbook.UITest", "..\RecipeCookbook.UITest\RecipeCookbook.UITest.csproj", "{3911E1EF-DE8D-4201-8680-A085AF42CDB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +123,22 @@ Global
 		{F2941904-03F4-40E9-BC2E-0D4C99027333}.Release|x64.Build.0 = Release|Any CPU
 		{F2941904-03F4-40E9-BC2E-0D4C99027333}.Release|x86.ActiveCfg = Release|Any CPU
 		{F2941904-03F4-40E9-BC2E-0D4C99027333}.Release|x86.Build.0 = Release|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Debug|ARM.Build.0 = Debug|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Debug|x64.Build.0 = Debug|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Debug|x86.Build.0 = Debug|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Release|ARM.ActiveCfg = Release|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Release|ARM.Build.0 = Release|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Release|x64.ActiveCfg = Release|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Release|x64.Build.0 = Release|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Release|x86.ActiveCfg = Release|Any CPU
+		{3911E1EF-DE8D-4201-8680-A085AF42CDB3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
